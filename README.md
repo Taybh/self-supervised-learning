@@ -2,6 +2,14 @@
 
 This repository provides utilities and experiments for self-supervised and semi-supervised learning on the CIFAR-10 dataset, with a focus on flexible data loading, augmentation, and support for both supervised and unsupervised training paradigms.
 
+## Example Results
+
+![Description for first image](images/training.png)
+*Figure 1: Overview of the training and data preparation, including dataset splitting and augmentation.*
+
+![Description for second image](images/network.png)
+*Figure 2: The FastResNet network architecture used for model training and evaluation.*
+
 ## Features
 
 - **Flexible Dataset Handling:**  
