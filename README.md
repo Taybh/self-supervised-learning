@@ -18,8 +18,11 @@ This repository provides utilities and experiments for self-supervised and semi-
 
 ## Repository Structure
 ├── Training_Unsupervised_Data_Augmentation.ipynb # Main notebook for unsupervised training experiments
+
 ├── create_datasets.py # Dataset creation and DataLoader utilities
+
 ├── transforms.py # Custom transform wrappers and augmentation logic
+
 ├── networks.ipynb # Model architectures and training scripts
 
 
